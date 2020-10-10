@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "375578245383",
+    "firebase_url": "https://trainingfirebase-a32f5.firebaseio.com",
+    "project_id": "trainingfirebase-a32f5",
+    "storage_bucket": "trainingfirebase-a32f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375578245383:android:f6e42fbb6576738af7eda2",
+        "android_client_info": {
+          "package_name": "ru.kostya.firebasetraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375578245383-h4122i3b5oskfdqg80fdon1l81svoclf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.kostya.firebasetraining",
+            "certificate_hash": "601016afbf9bed36c70cd119c019aea64a08814d"
+          }
+        },
+        {
+          "client_id": "375578245383-pb74f9tblm5irttmelf8upudosebcd43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJLKBd0R6tLuILqh6PZF9welotydivGJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375578245383-pb74f9tblm5irttmelf8upudosebcd43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
